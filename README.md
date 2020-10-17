@@ -1,11 +1,7 @@
 ## Hi I'm Francis Munabeno <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-
 I'm Francis a Full Stack Web Developer. Right now i'm student at Simplon until February.
-
-
-<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="200" height="200" />
-<br />
+<img  align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="200" height="200" />
 
 ### 🐨 About me
 
@@ -14,9 +10,7 @@ I'm Francis a Full Stack Web Developer. Right now i'm student at Simplon until F
 - 🙈  I eat very... very... to much.
 - 🏃  But, i go to the Gym very often so it's ok 😬. 
 
-<br />
-
-📮 Reach me out!
+#### 📮 Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@francis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Francis_Dev1) 
 [![Linkedin Badge](https://img.shields.io/badge/-francis-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-munabeno-b5a730a4/)
