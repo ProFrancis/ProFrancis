@@ -44,4 +44,7 @@ I'm Francis a Full Stack Web Developer. Right now i'm student at Simplon until F
 ### Stats Working
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
