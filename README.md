@@ -47,7 +47,9 @@ More stuff about me
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   38 mins         ███████████████▒░░░░░░░░░   61.77 % 
+YAML       22 mins         █████████░░░░░░░░░░░░░░░░   36.43 % 
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 <!--END_SECTION:waka-->
 
