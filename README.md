@@ -5,7 +5,7 @@ I am Francis a Full Stack Web Developer. Right now i am studying at Simplon unti
 
 ### 🦸🏾‍♂️ About me
 
-- 📢  **I’m currently looking an internship.**
+- 📢  **I am seeking for an internship.**
 - ✉️   How to reach me: francis.munabeno@epitech.eu.
 - 🙈  I eat very... very... to much.
 - 🏃🏾‍♂️  But, i go to the Gym very often so it's ok 😬. 
