@@ -1,6 +1,6 @@
 ## Hi I'm Francis Munabeno <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Francis a Full Stack Web Developer. Right now i'm student at Simplon until February.
+I'm Francis a Full Stack Web Developer. Right now i'm studying at Simplon until February.
 <img  align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="250" />
 
 ### 🦸🏾‍♂️ About me
