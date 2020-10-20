@@ -47,10 +47,11 @@ More stuff about me
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     1 hr 35 mins    █████████████████▓░░░░░░░   71.16 % 
-YAML         29 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.33 % 
-JavaScript   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+JavaScript   2 hrs 37 mins   ████████████▒░░░░░░░░░░░░   49.19 % 
+Markdown     1 hr 35 mins    ███████▒░░░░░░░░░░░░░░░░░   29.79 % 
+YAML         29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+SCSS         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 <!--END_SECTION:waka-->
 
