@@ -5,7 +5,6 @@ I am Francis a Full Stack Web Developer.
 
 ### 🦸🏾‍♂️ About me
 
-- 📢  **I am seeking for an job.**
 - ✉️   How to reach me: francis.munabeno@yahoo.fr.
 - 🙈  I eat very... very... to much.
 - 🏃🏾‍♂️  But, i go to the Gym very often so it's ok 😬. 
